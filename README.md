@@ -4,15 +4,15 @@ ___
 ## Spesifikasi Sistem
 Koneksi Internet: Koneksi Internet yang stabil dan cepat dibutuhkan untuk mengakses sistem informasi secara cloud.
 
-Browser Web: Klien harus menggunakan browser web yang mendukung teknologi seperti HTML5, CSS3, dan JavaScript untuk menampilkan unsur peta dan mengakses API. Beberapa browser web yang disarankan adalah Google Chrome, Mozilla Firefox, dan Microsoft Edge.
+*Browser Web: Klien harus menggunakan browser web yang mendukung teknologi seperti HTML5, CSS3, dan JavaScript untuk menampilkan unsur peta dan mengakses API. Beberapa browser web yang disarankan adalah Google Chrome, Mozilla Firefox, dan Microsoft Edge.
 
-Perangkat Mobile: Jika ingin mengakses sistem informasi melalui perangkat mobile, klien harus menggunakan perangkat dengan sistem operasi yang mendukung teknologi seperti iOS atau Android.
+*Perangkat Mobile: Jika ingin mengakses sistem informasi melalui perangkat mobile, klien harus menggunakan perangkat dengan sistem operasi yang mendukung teknologi seperti iOS atau Android.
 
-Layanan Peta: Jika sistem informasi memerlukan tampilan unsur peta, klien harus menggunakan browser atau perangkat mobile yang mendukung layanan peta seperti Google Maps atau OpenStreetMap.
+*Layanan Peta: Jika sistem informasi memerlukan tampilan unsur peta, klien harus menggunakan browser atau perangkat mobile yang mendukung layanan peta seperti Google Maps atau OpenStreetMap.
 
-API Client: Klien dapat menggunakan alat API client seperti Postman atau Insomnia untuk memanggil API dari sistem informasi.
+*API Client: Klien dapat menggunakan alat API client seperti Postman atau Insomnia untuk memanggil API dari sistem informasi.
 
-Kompatibilitas NoSQL Database atau JSON: Klien harus menggunakan aplikasi yang mendukung pengolahan data dari NoSQL Database atau JSON, seperti aplikasi MongoDB Compass untuk NoSQL Database atau aplikasi JSON Editor untuk JSON.
+*Kompatibilitas NoSQL Database atau JSON: Klien harus menggunakan aplikasi yang mendukung pengolahan data dari NoSQL Database atau JSON, seperti aplikasi MongoDB Compass untuk NoSQL Database atau aplikasi JSON Editor untuk JSON.
 
 Keamanan: Klien harus memastikan bahwa perangkat mereka dilindungi dengan baik dari ancaman keamanan
 ## Ruang Lingkup Sistem
