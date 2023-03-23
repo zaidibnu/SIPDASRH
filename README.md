@@ -1,6 +1,7 @@
 # SIPDASRH
 Sistem informasi pengelolaan daerah aliran sungai terpadu (Integrated River Basin Management Information System) adalah sistem informasi yang menyediakan data dan informasi terkait pengelolaan dan pengembangan daerah aliran sungai secara terpadu. Sistem ini memungkinkan pengumpulan, analisis, dan distribusi informasi mengenai sumber daya alam, kondisi lingkungan, serta aktivitas manusia di dalam daerah aliran sungai..
 ___
+
 ## Spesifikasi Sistem
 Koneksi Internet: Koneksi Internet yang stabil dan cepat dibutuhkan untuk mengakses sistem informasi secara cloud.
 
