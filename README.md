@@ -1,6 +1,8 @@
 # SIPDASRH
 Sistem informasi perencanaan daerah aliran sungai dan rehabilitasi hutan
 =
+Sistem informasi pengelolaan daerah aliran sungai terpadu (Integrated River Basin Management Information System) adalah sistem informasi yang menyediakan data dan informasi terkait pengelolaan dan peng
+
 I. SISTEM PDASRH
   A. Sistem Informasi Rehabilitasi Hutan
   	Perencanaan
@@ -18,4 +20,4 @@ I. SISTEM PDASRH
   D. Sistem Informasi Deteksi Bencana Lingkungan
   E. Sistem Informasi Perairan Darat dan Mangrove
 
-II. 
+II. USER MANAJEMEN
