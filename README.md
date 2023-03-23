@@ -6,25 +6,11 @@ Sistem informasi pengelolaan daerah aliran sungai terpadu (Integrated River Basi
 Tujuan utama dari sistem informasi pengelolaan daerah aliran sungai terpadu adalah untuk mendukung pengambilan keputusan yang berbasis fakta dan analisis dalam pengelolaan daerah aliran sungai. Dengan adanya sistem ini, pihak-pihak yang terlibat dalam pengelolaan daerah aliran sungai, seperti pemerintah, masyarakat, dan industri, dapat memperoleh data dan informasi yang akurat dan terkini untuk merencanakan dan melaksanakan kegiatan yang berkelanjutan dan terintegrasi. Sistem informasi ini juga dapat membantu mengidentifikasi masalah dan risiko yang mungkin terjadi di dalam daerah aliran sungai, sehingga dapat dilakukan tindakan pencegahan atau mitigasi secara dini.
 
 <ol>
- <li>SISTEM PDASRH</li>
-  <li>SISTEM MANAGEMENT</li>
- <li>Sistem Informasi Bangunan Konservasi Tanah dan Air</li>
+ <li>I. SISTEM PDASRH</li>
+ <li>II. SISTEM MANAGEMENT</li>
 </ol>
-* I. 
-  **A. Sistem Informasi Rehabilitasi Hutan
-  	Perencanaan
-  	Monitoring dan Evaluasi
-  	Pelayanan
-  	Peta
-  	API
-  **B. Sistem Informasi Perbenihan Tanaman Hutan
-  	Perencanaan
-  	Monitoring dan Evaluasi
-  	Pelayanan
-  	Peta
-  	API
-  **C. 
-  **D. Sistem Informasi Deteksi Bencana Lingkungan
-  **E. Sistem Informasi Perairan Darat dan Mangrove
 
-*II. USER MANAJEMEN
+ 1. Sistem Informasi Rehabilitasi Hutan
+ 2. Sistem Informasi Bangunan Konservasi Tanah dan Air
+ 3. Sistem Informasi Perairan Darat
+ 4. Sistem Informasi Perbenihan Tanaman Hutan
